@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <link rel="preload" as="image" href="https://github.com/idonthaveacommit/idonthaveacommit.github.io/blob/f77b6d210876ae81cff2cf271251e79c2cadbdb9/coffee-croissant.png?raw=true">
@@ -409,8 +409,6 @@
   });
 
   </script>
-
-
 
 </body>
 </html>
